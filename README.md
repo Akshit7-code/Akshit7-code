@@ -5,26 +5,64 @@ I'm a passionate full-stack developer from India, dedicated to open-source contr
 - 🚀 **Passionate About:** Web development, open-source, and building intuitive user interfaces.
 - 🌱 **Currently Learning:** Advanced MongoDB, data analytics, and scalable web architectures.
 - 💡 **Looking to Collaborate On:** WordPress plugin development, MERN stack applications, and API integrations.
-- 📫 **How to Reach Me:** Connect via GitHub, LinkedIn, or email for discussions and collaborations!
-- 😆 **Fun Fact:** I turn caffeine into code and bugs into features!
+- 💌 **How to Reach Me:** Connect via GitHub, LinkedIn, or email for discussions and collaborations!
+- 😆 Fun Fact: Just like an anime protagonist, I level up my coding skills through intense training arcs (and lots of coffee)! 🚀
 
 ---
 
 ## 📞 Contact Details
 
 <a href="mailto:akshitthakur371@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.linkedin.com/in/akshit-thakur/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://abhishek2.com/"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/akshit-thakur-578389359/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://portfolio-jsbt.onrender.com/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a> &nbsp;
 <a href="https://linktr.ee/akshit_thakur"><img alt="Linktree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a> &nbsp;
+
 
 ---
 
-## 📖 Education Qualifications
+## 📚 Education Qualifications
 
 🎓 **Academic Achievements:**
-- 📚 **10th Grade:** Secured **75.75%**
-- 📚 **12th Grade:** Secured **85%**
-- 🎓 **Engineering (3rd Year, Ongoing):** Secured **7.26 CGPA**
+- 📚 **10th Grade:** Deepak Memorial Academy Sagar (M.P) - Secured **74.4%**
+- 📚 **12th Grade:** Deepak Memorial Academy Sagar (M.P) - Secured **86.6%**
+- 🎓 **Engineering:** Gyan Sagar College of Engineering, Sagar - Currently pursuing **B.Tech in Computer Science** (3rd Year, 7.26 CGPA)
+
+---
+
+## 💼 Internship Experience
+
+- 👨‍💻 **Web Development Intern at MadQuick Pvt Ltd**
+  - Gained hands-on experience in building and optimizing web applications.
+  - Worked on front-end and back-end technologies.
+  - Earned a **certificate in Web Development**.
+
+---
+
+## 🎨 Hobbies
+
+- Sketching, Drawing, and Painting.
+- Playing Badminton, Cricket, and Football.
+- Interested in fighting sports like Boxing.
+- Traveling and exploring new places.
+
+---
+
+## 💪 Skills
+
+- **Programming Languages:** C, C++, Java, JavaScript, Python, SQL
+- **Databases:** MongoDB, MySQL (or any SQL-based databases)
+- **Web Development:** HTML, CSS, React, WordPress (including plugin development)
+- **SS Frameworks:** Bootstrap, Tailwind CSS
+- **App Development:** React Native.
+
+---
+
+## 🏆 Expertise
+
+- Technical Skills
+- Creativity
+- Adaptability
+- Good Thinking
 
 ---
 
@@ -33,7 +71,7 @@ I'm a passionate full-stack developer from India, dedicated to open-source contr
 <table>
   <tr>
     <td>
-      <h3>🛠 Custom Header & Footer Plugin</h3>
+      <h3>🧭 Custom Header & Footer Plugin</h3>
       <p><strong>WordPress Plugin Development</strong></p>
       <p>Developed a WordPress plugin that enables users to design custom headers and footers using Elementor, seamlessly replacing default theme elements.</p>
     </td>
@@ -45,7 +83,7 @@ I'm a passionate full-stack developer from India, dedicated to open-source contr
   </tr>
   <tr>
     <td>
-      <h3>🎟 Event Management App</h3>
+      <h3>🎫 Event Management App</h3>
       <p><strong>MERN Stack Development</strong></p>
       <p>Developed a real-time event management system where users can create, manage, and schedule events efficiently.</p>
     </td>
@@ -59,18 +97,11 @@ I'm a passionate full-stack developer from India, dedicated to open-source contr
 
 ---
 
-## 🎖 Certifications & Achievements
-
-- 🏆 **GitHub Foundations Certification**
-- 🎓 **MongoDB University Certification (In Progress)**
-- 📜 **Data Analytics with Python - Coursera**
-
----
-
 ## 👨‍💻 Coding Profiles
 
-<a href="https://www.hackerrank.com/profile/akshitthakur371"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> &nbsp;
-<a href="https://leetcode.com/akshit94/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> &nbsp;
+<a href="https://www.prepinsta.com/profile/akshitthakur371">
+  <img src="https://img.shields.io/badge/-PrepInsta-2EC866?style=for-the-badge&logo=PrepInsta&logoColor=white"/>
+</a> &nbsp;
 <a href="https://www.geeksforgeeks.org/user/akshitthakur371/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> &nbsp;
 <a href="https://www.codechef.com/users/akshit_thakur"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a> &nbsp;
 
