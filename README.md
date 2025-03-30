@@ -96,17 +96,6 @@ I'm a passionate full-stack developer from India, dedicated to open-source contr
 
 ---
 
-## 👨‍💻 Coding Profiles
-
-<a href="https://www.prepinsta.com/profile/akshitthakur371">
-  <img src="https://img.shields.io/badge/-PrepInsta-2EC866?style=for-the-badge&logo=PrepInsta&logoColor=white"/>
-</a> &nbsp;
-<a href="https://www.geeksforgeeks.org/user/akshitthakur371/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> &nbsp;
-<a href="https://www.codechef.com/users/akshit_thakur"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a> &nbsp;
-
-[![AkshitThakur's GitHub | Stats](https://stats.quine.sh/akshitthakur/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=akshitthakur)
-[![AkshitThakur's GitHub | Dependencies](https://stats.quine.sh/akshitthakur/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=akshitthakur)
-
 <!---
 AkshitThakur/AkshitThakur is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
