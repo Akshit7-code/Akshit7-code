@@ -1,36 +1,42 @@
-👋 Hi, I’m Akshit Thakur (@Akshit7-code)
-A passionate Computer Science student with a strong interest in web development, React, and UI/UX design.
-I love building modern, user-friendly applications 
-and continuously exploring new technologies.
+👋 HEY THERE! I'M AKSHIT THAKUR (@Akshit7-code)
+A PASSIONATE COMPUTER SCIENCE STUDENT | FULL-STACK DEVELOPER | UI/UX ENTHUSIAST
+💻 Building modern, user-friendly applications is my passion. I specialize in web development, WordPress plugins, UI/UX design, and automation. From crafting seamless React applications to developing custom WordPress plugins, I love exploring new technologies and solving real-world problems.
 
-👀 Interests
-Web Development – Crafting seamless and responsive websites using React, Vite, and Tailwind CSS.
-UI/UX Design – Designing intuitive and visually appealing user interfaces.
-Open Source – Contributing to the community and learning from others.
-Automation & Plugins – Developing tools to simplify workflows.
+🚀 WHAT I DO:
+🔹 FULL-STACK WEB DEVELOPMENT
+✔ Expert in React, Next.js, Vite, Tailwind CSS, and Node.js
+✔ Developing MERN stack applications and real-time chat apps
+✔ Creating modern dashboards like Google Search Console clones
 
-🌱 Currently Learning
-Advanced React & Next.js concepts.
-Building efficient APIs with Node.js and Express.
-Exploring React Native for mobile development.
-Python & Data Analysis – Leveraging data to extract insights and build smarter applications.
+🔹 WORDPRESS & PLUGINS
+✔ Developing custom WordPress plugins for headers, footers, Elementor widgets, and SSL settings
+✔ Creating ACF-based settings pages and custom fields for post types
+✔ Integrating custom pricing tables and eCommerce solutions
 
-💞️ Looking to Collaborate On
-Open-source projects in React, JavaScript, or PHP.
-Innovative web and mobile applications.
-UI/UX improvements for existing platforms.
+🔹 UI/UX DESIGN
+✔ Designing intuitive and visually stunning interfaces
+✔ Passionate about animation, interactivity, and user engagement
 
-📫 How to Reach Me
-📧 Email: akshitthakur371@gmail.com
-🔗 LinkedIn: [Your LinkedIn]
+🔹 MOBILE DEVELOPMENT & AUTOMATION
+✔ Exploring React Native for mobile app development
+✔ Automating workflows with custom tools and scripts
 
-😄 Pronouns
-He/Him
+🌱 CURRENTLY LEARNING & EXPLORING:
+✅ Advanced React & Next.js concepts
+✅ Efficient API development with Node.js & Express
+✅ Python & Data Analysis for intelligent applications
+✅ MongoDB and database management
 
-⚡ Fun Fact
-I can spend hours perfecting a UI animation but still struggle to decide what to eat for lunch!
+🤝 LOOKING TO COLLABORATE ON:
+🔹 Open-source projects in React, JavaScript, or PHP
+🔹 Innovative web and mobile applications
+🔹 Custom WordPress plugins and UI/UX improvements
 
-<!---
-Akshit7-code/Akshit7-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📬 LET'S CONNECT!
+📧 EMAIL: akshitthakur371@gmail.com
+🔗 LINKEDIN: [YOUR LINKEDIN]
+
+😄 FUN FACT:
+🔥 I can spend hours perfecting a UI animation but still struggle to decide what to eat for lunch! 🍕😂
+
+💡 Always open to new challenges, collaborations, and learning opportunities. Let's build something amazing together! 🚀
