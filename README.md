@@ -65,32 +65,31 @@ I'm a passionate full-stack developer from India, dedicated to open-source contr
 - Good Thinking
 
 ---
-
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%" cellspacing="0" cellpadding="10" border="0">
   <tr>
-    <td>
-      <h3>🧭 Custom Header & Footer Plugin</h3>
-      <p><strong>WordPress Plugin Development</strong></p>
-      <p>Developed a WordPress plugin that enables users to design custom headers and footers using Elementor, seamlessly replacing default theme elements.</p>
+    <td width="50%" valign="top" style="padding-bottom: 40px;">
+      <h3>🎫 Event Management App</h3>
+      <p><strong>Technology:</strong> React Native (Expo), MERN Stack</p>
+      <p>A real-time event management system that allows users to create, manage, and schedule events. Features include event reminders, notifications, and a smooth user experience.</p>
     </td>
-    <td>
-      <h3>📊 Google Search Console Dashboard</h3>
-      <p><strong>Next.js & API Integration</strong></p>
-      <p>Built a web-based dashboard that integrates with Google Search Console, displaying website analytics like total clicks and impressions.</p>
+    <td width="50%" valign="top" style="padding-bottom: 40px;">
+      <h3>♿ AccessMate – Assistive App</h3>
+      <p><strong>Technology:</strong> React Native (Expo), MERN Stack</p>
+      <p>An accessibility-focused mobile app designed to assist disabled individuals in finding wheelchair-friendly locations, accessible washrooms, and other facilities in real-time.</p>
     </td>
   </tr>
   <tr>
-    <td>
-      <h3>🎫 Event Management App</h3>
-      <p><strong>MERN Stack Development</strong></p>
-      <p>Developed a real-time event management system where users can create, manage, and schedule events efficiently.</p>
+    <td width="50%" valign="top" style="padding-bottom: 40px;">
+      <h3>🌐 Personal Portfolio Website</h3>
+      <p><strong>Technology:</strong> React.js, Tailwind CSS</p>
+      <p>Developed a fully responsive personal portfolio website showcasing skills, projects, and achievements with a modern and interactive UI.</p>
     </td>
-    <td>
-      <h3>🚛 Logistics & Supply Chain System</h3>
-      <p><strong>Full-Stack Web Development</strong></p>
-      <p>A logistics management system designed to optimize supply chain workflows and enhance delivery tracking.</p>
+    <td width="50%" valign="top" style="padding-bottom: 40px;">
+      <h3>🖼️ Infinity Gaze – AI Image Generator</h3>
+      <p><strong>Technology:</strong> HTML, CSS, JavaScript</p>
+      <p>Created an AI-powered image generator that produces unique images based on user input. Features include multiple customization options and real-time previews.</p>
     </td>
   </tr>
 </table>
