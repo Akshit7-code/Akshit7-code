@@ -52,7 +52,7 @@ I'm a passionate full-stack developer from India, dedicated to open-source contr
 - **Programming Languages:** C, C++, Java, JavaScript, Python, SQL
 - **Databases:** MongoDB, MySQL (or any SQL-based databases)
 - **Web Development:** HTML, CSS, React, WordPress (including plugin development)
-- **SS Frameworks:** Bootstrap, Tailwind CSS
+- **CSS Frameworks:** Bootstrap, Tailwind CSS
 - **App Development:** React Native.
 
 ---
