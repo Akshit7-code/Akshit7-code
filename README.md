@@ -1,3 +1,30 @@
+# 🎮 WELCOME TO AKSHIT'S DEVELOPER QUEST
+
+You have entered a mysterious GitHub profile...
+
+A developer is training hard to become legendary.
+
+What will you do?
+
+- 🧠 [Test His Coding Skills](#-coding-dungeon)
+- 🏗️ [Explore His Creations](#-projects-zone)
+- 🚪 [Skip to Introduction](#-hi-there-im-akshit-thakur-)
+
+---
+
+## 🧠 Coding Dungeon
+
+You encounter a JavaScript Bug! 🐛
+
+### ❓ What is the output?
+
+```javascript
+console.log(typeof null);
+
+
+
+
+
 # Hi there, I'm Akshit Thakur! 👋
 
 I'm a passionate full-stack developer from India, dedicated to open-source contributions and building innovative web applications. I thrive on solving real-world problems and creating seamless digital experiences.
